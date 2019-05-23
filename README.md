@@ -8,17 +8,10 @@ You will be armed with the knowledge of creating applications with flexible logg
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Create an Azure Kubernetes Service cluster along with a continuous delivery pipeline in Visual Studio Team Services, and deploy a Spring Boot application into the cloud as a container<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Work with Azure CosmosDB to implement a flavor of the Event Sourcing design pattern in Java <BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Leverage the Azure CosmosDB's Change Feed feature to avoid the issue of dual writes in a distributed system<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Use Azure Blob Storage to securely store files and keep them highly available into the cloud<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Work with Azure Redis to optimize an application via caching data, from Java<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Build a basic Spring Boot API application and use Swagger to describe the API contracts and implement asynchronous communication between microservices with Azure Service Bus<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Perform text sentiment analysis using Azure Cognitive Services and send email messages programmatically using Azure SendGrid<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Protect and retrieve application secrets with Azure Vault and learn to use Azure SQL Server with Hibernate <BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Get introduced to a number of additional Azure components, such as Azure Active Directory, Azure App Service, Azure API Gateway, Azure Application Gateway, Azure VMs<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Develop an example microservices-based application for restaurant reservations, and deploy it successfully into the cloud<BR></SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Leverage Azure’s built-in monitoring, troubleshooting and scaling features,to keep services healthy, highly available, and detect problems fast</SPAN> </LI></UL></DIV>
+<LI>Explore the basic and advanced class design in Python 
+<LI>Perform input/output operations and get to know the logical layouts 
+<LI>Get acquainted with advanced programming techniques in Python 
+<LI>Equip yourself with functional and statistical programming features </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
